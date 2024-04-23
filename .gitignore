@@ -2,3 +2,4 @@ data/
 **/results
 **/graphs
 **/model_results/**/*_predictions.csv
+**/model_results/nowcasting/elastic_net/**/top_weighted_queries.csv
