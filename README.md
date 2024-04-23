@@ -3,7 +3,9 @@ This repository contains the relevant code for my final year project, as part of
 The repository is split into 2 folders:
 
 - Notebooks: Contains the data preprocessing, data analysis, and model training for the various models trained in both the nowcasting and forecasting tasks.
-- Results: Contains the corresponding results and graphs of each model trained in both the nowcasting and forecasting tasks.
+- Results: Contains the corresponding performance results of each model trained in both the nowcasting and forecasting tasks.
+
+NOTE: Due to privacy concerns, the data used for this project is not available in the repository and so the source code cannot be run. All results, graphs and notebook outputs that reveal any information regarding the data have been omitted.
 
 Below is the abstract of my dissertation, providing greater context on what this project was about.
 
